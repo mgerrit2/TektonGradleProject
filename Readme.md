@@ -48,3 +48,5 @@ D:\Programming\GitHub\Sample\RemoveSecrets\.git\filter-repo\analysis4
 
 
 git log
+git pull
+git filter-branch 
