@@ -49,4 +49,10 @@ D:\Programming\GitHub\Sample\RemoveSecrets\.git\filter-repo\analysis4
 
 git log
 git pull
-git filter-branch 
+
+- remove file
+
+git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch ./src/main/resources/application.properties' --prune-empty --tag-name-filter cat -- --all
+
+git push origin --force
+
