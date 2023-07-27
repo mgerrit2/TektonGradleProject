@@ -1,0 +1,1 @@
+git filter-repo --invert-paths --path ./application.properties
