@@ -11,6 +11,15 @@
 </div>
 
 
+#### Remove sensitive information
+
+<div>
+video
+</div>
+<div>
+<a href="https://www.youtube.com/watch?v=liCAFV8Rmbs">Remove sensitive information info</a>
+</div>
+
 
 
 <div>
@@ -34,4 +43,8 @@ python3 git-filter-repo  --analyze
 <div>
 location as analyse
 </div>
-D:\Programming\GitHub\Sample\RemoveSecrets\.git\filter-repo\analysis
+D:\Programming\GitHub\Sample\RemoveSecrets\.git\filter-repo\analysis4
+
+
+
+git log
